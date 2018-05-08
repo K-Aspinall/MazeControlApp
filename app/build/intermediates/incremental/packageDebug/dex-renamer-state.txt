@@ -1,0 +1,7 @@
+#Fri May 04 11:35:31 BST 2018
+base.0=/Users/kristian/Downloads/android-advanced-starter-apps-master/HelloWorldRemote/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_13d6fe69bd5fd5caf069a34e5f3a7017f2af9537
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/kristian/Downloads/android-advanced-starter-apps-master/HelloWorldRemote/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_60d60b9930709ed2a1ac48909f4ab5be3181a26a/classes.dex
+base.1=/Users/kristian/Downloads/android-advanced-starter-apps-master/HelloWorldRemote/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_60d60b9930709ed2a1ac48909f4ab5be3181a26a
+file.0=/Users/kristian/Downloads/android-advanced-starter-apps-master/HelloWorldRemote/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_13d6fe69bd5fd5caf069a34e5f3a7017f2af9537/classes.dex

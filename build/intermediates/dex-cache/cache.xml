@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/kristian/Downloads/android-advanced-starter-apps-master/HelloWorldRemote/app/libs/phidget21.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="aabbe8cbc15900921a68eb13316ed6a19dfb28ac">
+        <dex dex="/Users/kristian/Downloads/android-advanced-starter-apps-master/HelloWorldRemote/app/build/intermediates/transforms/dex/debug/folders/1000/2/phidget21_133f9a3921d8a8f99b626464eddbae244466a8bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kristian/Downloads/android-advanced-starter-apps-master/HelloWorldRemote/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/kristian/Downloads/android-advanced-starter-apps-master/HelloWorldRemote/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support.constraint-constraint-layout-1.0.2_ddea7fd795451dd7008c6b3d074f3cdf5071d436/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kristian/Downloads/android-advanced-starter-apps-master/HelloWorldRemote/app/libs/PhidgetsUSB.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3af784b2c71b8d0f9c6df513ec5ca3219e508621">
+        <dex dex="/Users/kristian/Downloads/android-advanced-starter-apps-master/HelloWorldRemote/app/build/intermediates/transforms/dex/debug/folders/1000/2/PhidgetsUSB_03a5bfe35f8e2bf412fdb1836570585a1a3adf97/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kristian/Downloads/android-advanced-starter-apps-master/HelloWorldRemote/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/kristian/Downloads/android-advanced-starter-apps-master/HelloWorldRemote/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.3.0_2e467a54bf1ef447049a9fdd274de2b34792029a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kristian/Downloads/android-advanced-starter-apps-master/HelloWorldRemote/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/kristian/Downloads/android-advanced-starter-apps-master/HelloWorldRemote/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.3.0_13018891bc65f3ba654324a42b442f75f1bdfe18/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kristian/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/kristian/Downloads/android-advanced-starter-apps-master/HelloWorldRemote/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_266f56913dca553f453bbb1ee6159188dd316ebb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kristian/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/kristian/Downloads/android-advanced-starter-apps-master/HelloWorldRemote/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_9dee7c5eaf6e659526a29844349870243b39946a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kristian/Downloads/android-advanced-starter-apps-master/HelloWorldRemote/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/Users/kristian/Downloads/android-advanced-starter-apps-master/HelloWorldRemote/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.3.0_2cf37e79bc855e2ce96b31391912907a80eaad4b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kristian/Downloads/android-advanced-starter-apps-master/HelloWorldRemote/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="13980e46a08a79af818a887be32fbef669595ae9">
+        <dex dex="/Users/kristian/Downloads/android-advanced-starter-apps-master/HelloWorldRemote/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_60d60b9930709ed2a1ac48909f4ab5be3181a26a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kristian/Downloads/android-advanced-starter-apps-master/HelloWorldRemote/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150b52193be9a30acd0d49f2e9a8d27228abc889">
+        <dex dex="/Users/kristian/Downloads/android-advanced-starter-apps-master/HelloWorldRemote/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_13d6fe69bd5fd5caf069a34e5f3a7017f2af9537/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kristian/Downloads/android-advanced-starter-apps-master/HelloWorldRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/kristian/Downloads/android-advanced-starter-apps-master/HelloWorldRemote/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.3.0_717220b2efad8e2200f33fd38557e64abf12924f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kristian/Downloads/android-advanced-starter-apps-master/HelloWorldRemote/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/kristian/Downloads/android-advanced-starter-apps-master/HelloWorldRemote/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_4ae8465e71095a1a6300aa4936c920cbb1fb5457/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kristian/Downloads/android-advanced-starter-apps-master/HelloWorldRemote/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="/Users/kristian/Downloads/android-advanced-starter-apps-master/HelloWorldRemote/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.3.0_09a483bafc23c0bfc39883f1cf14875f602134f9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kristian/Downloads/android-advanced-starter-apps-master/HelloWorldRemote/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/kristian/Downloads/android-advanced-starter-apps-master/HelloWorldRemote/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_1c3d17b1845587f311d260a34b0e81127f386fbf/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="base_margin">8dp</dimen>
+    <dimen name="spot_size">84dp</dimen>
+</resources>

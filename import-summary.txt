@@ -1,0 +1,90 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .DS_Store
+* .idea/
+* .idea/HelloWorldRemote.iml
+* .idea/compiler.xml
+* .idea/copyright/
+* .idea/copyright/profiles_settings.xml
+* .idea/libraries/
+* .idea/libraries/PhidgetsUSB.xml
+* .idea/libraries/phidget21.xml
+* .idea/misc.xml
+* .idea/modules.xml
+* .idea/workspace.xml
+* output/
+* output/HelloWorldRemote.apk
+* output/HelloWorldRemote.unaligned.apk
+* output/com/
+* output/com/example/
+* output/com/example/PhidgetHelloWorldRemote/
+* output/com/example/PhidgetHelloWorldRemote/BuildConfig.class
+* output/com/example/PhidgetHelloWorldRemote/HelloWorldRemoteActivity$1.class
+* output/com/example/PhidgetHelloWorldRemote/HelloWorldRemoteActivity$2.class
+* output/com/example/PhidgetHelloWorldRemote/HelloWorldRemoteActivity$3.class
+* output/com/example/PhidgetHelloWorldRemote/HelloWorldRemoteActivity$4.class
+* output/com/example/PhidgetHelloWorldRemote/HelloWorldRemoteActivity$AttachEventHandler.class
+* output/com/example/PhidgetHelloWorldRemote/HelloWorldRemoteActivity$DetachEventHandler.class
+* output/com/example/PhidgetHelloWorldRemote/HelloWorldRemoteActivity.class
+* output/com/example/PhidgetHelloWorldRemote/R$attr.class
+* output/com/example/PhidgetHelloWorldRemote/R$dimen.class
+* output/com/example/PhidgetHelloWorldRemote/R$drawable.class
+* output/com/example/PhidgetHelloWorldRemote/R$id.class
+* output/com/example/PhidgetHelloWorldRemote/R$layout.class
+* output/com/example/PhidgetHelloWorldRemote/R$string.class
+* output/com/example/PhidgetHelloWorldRemote/R.class
+* output/drawable-hdpi/
+* output/drawable-hdpi/ic_launcher.png
+* output/drawable-ldpi/
+* output/drawable-ldpi/ic_launcher.png
+* output/drawable-mdpi/
+* output/drawable-mdpi/ic_launcher.png
+* output/drawable/
+* output/drawable/spot.xml
+* output/layout/
+* output/layout/main.xml
+* output/values/
+* output/values/dimens.xml
+* output/values/strings.xml
+* proguard.cfg
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app/src/main/AndroidManifest.xml
+* assets/ => app/src/main/assets
+* libs/PhidgetsUSB.jar => app/libs/PhidgetsUSB.jar
+* libs/armeabi-v7a/libphidget21.so => app/src/main/jniLibs/armeabi-v7a/libphidget21.so
+* libs/armeabi/libphidget21.so => app/src/main/jniLibs/armeabi/libphidget21.so
+* libs/mips/libphidget21.so => app/src/main/jniLibs/mips/libphidget21.so
+* libs/phidget21.jar => app/libs/phidget21.jar
+* libs/x86/libphidget21.so => app/src/main/jniLibs/x86/libphidget21.so
+* res/ => app/src/main/res/
+* src/ => app/src/main/java/
+* src/.DS_Store => app/src/main/resources/.DS_Store
+* src/com/.DS_Store => app/src/main/resources/com/.DS_Store
+* src/com/example/.DS_Store => app/src/main/resources/com/example/.DS_Store
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)
